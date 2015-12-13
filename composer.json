@@ -3,6 +3,12 @@
     "description": "treeview for pages",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
+    "repositories":[
+        {
+            "type": "git",
+            "url": "https://github.com/zheselevko/yii2-treeview"
+        }
+    ]
     "license": "GPL-3.0",
     "authors": [
         {
