@@ -1,0 +1,21 @@
+{
+    "name": "treeview/yii2-treeview",
+    "description": "treeview for pages",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "zheselevko",
+            "email": "evgeniyselevko@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "zheselevko\\treeview\\": ""
+        }
+    }
+}
