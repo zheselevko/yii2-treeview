@@ -9,7 +9,7 @@
             "url": "https://github.com/zheselevko/yii2-treeview"
         }
     ],
-    "license": "GPL-3.0",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "zheselevko",
