@@ -16,7 +16,7 @@
             "email": "evgeniyselevko@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "require-dev",
     "require": {
         "bower-asset/jstree": "*"
     },
